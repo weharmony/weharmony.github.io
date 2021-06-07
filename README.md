@@ -1,7 +1,3 @@
-[将 HarmonyOS | 鸿蒙 研究到底](https://weharmony.gitee.io/) **[ < 国内](https://weharmony.gitee.io/)[ | 国外 >](https://weharmony.github.io/)**
-
-[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/other/io.png)](https://weharmony.gitee.io)
-
 百篇博客系列篇.本篇为:
 
 * [v52.xx 鸿蒙内核源码分析(静态站点篇) | 五一哪也没去就干了这事 ](https://my.oschina.net/weharmony/blog/5042657) **[  | 51](https://harmonyos.51cto.com/posts/4312)[ .c](https://blog.csdn.net/kuangyufei/article/details/116517461)[  .h](https://weharmony.gitee.io/52_静态站点篇.html)[  .o](https://my.oschina.net/weharmony)**
@@ -34,52 +30,55 @@
 *  [ 加入兴趣小组.微信群聊  < 国内](https://weharmony.gitee.io/qun/)[ | 国外 > ](https://weharmony.github.io/qun/)
 
 
-### OpenHarmony开发者文档
+### 将 HarmonyOS | 鸿蒙 研究到底
 
-* OpenHarmony开发者文档是对官方文档 [docs](https://gitee.com/openharmony/docs) 做的非常炫酷的静态站点，支持侧边栏/面包屑/搜索/中英文，非常方便的查看官方文档，大大提高学习和开发效率. 
-  * 国内: [https://weharmony.gitee.io/openharmony](https://weharmony.gitee.io/openharmony)
-  * 国外: [https://weharmony.github.io/openharmony](https://weharmony.github.io/openharmony) 
+[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/0.png)](https://weharmony.gitee.io)
 
-先看图:
+笔者为何要研究鸿蒙,请看这篇:
+* [v13.xx 鸿蒙内核源码分析(源码注释篇) | 鸿蒙必定成功，也必然成功 ](https://my.oschina.net/u/3751245/blog/4686747) **[  | 51](https://harmonyos.51cto.com/posts/4049)[ .c](https://blog.csdn.net/kuangyufei/article/details/109251754)[  .h](https://weharmony.gitee.io/blog/13_源码注释篇/) [  .o](https://my.oschina.net/weharmony)**
 
-[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/1.png)](https://openharmony.21cloudbox.com)
+### 鸿蒙开发者文档
+
+[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/1.png)](https://weharmony.gitee.io/openharmony/)
 
 * 在给鸿蒙内核加注和写博客期间需要不断的查找资料，觉得官方目前资料展示方式并不能满足自己的需求，浪费了很多宝贵的时间，所以在想能不能将官方文档整个静态站点出来即方便别人更方便自己，这是一劳永逸，利己利他的事干嘛不做的，刚好五一有成块的时间，本来也想出去走走，结果哪都没去，期间遇到不少问题，但基本都解决了，耽误了点时间没更新博客但换来未来的一片爽朗之声， hin 值得! 
 * 这里必须要感谢下这套主题的作者 Mr.hope ，人非常的nice， 晚上12点我们还在一起解决问题.再次感谢!!! 主题地址:[vuepress-theme-hope](https://gitee.com/vuepress-theme-hope) 有兴趣的可以去了解下，一个功能强大的 vuepress 主题.
-* 静态站点将每月同步官方文档，静态站点仓库已经开放，[仓库地址](https://gitee.com/weharmony/openharmony.21cloudbox.com) 欢迎下载部署.
+* 静态站点将每月同步官方文档，静态站点仓库已经开放，[仓库地址](https://gitee.com/weharmony/weharmony) 欢迎下载部署.
 
 ### 侧边栏
 
 ![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/2.png)
-* 这个不用说，都恨不得多开几个屏幕，技术人没它真不行，谁用谁知道，侧边栏是按官方的目录结构来的，但目前不是最优方案，会随时调整到最佳结构.
+* 这个不用说，都恨不得多开几个屏幕，技术人没它真不行，谁用谁知道，侧边栏三级目录结构,南向(设备开发),北向(应用开发),清晰明了.
 
 ### 主题色
 ![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/3.png)
 
 * 多种主题色，可以根据您的选择，当前时间自动切换模式，码农们得保护好视力，个人偏好白色.
 
-### 搜索极为便利，国内外双站点
+### 搜索极为便利
 
 ![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/4.png)
 * 这个是很重要的功能，无搜索不技术，说到这个强烈建议不要用某度，因之前从未写过博客不清楚搜索结果是怎样的效果，现在有对比，去搜下自己的文章 ...， 不知道大家有没有这种感觉，搜了半天看到很多加工材料，最后发现了根节点，根节点不是那么容易找到的. 各搜索引擎差别真的很大，谷歌就不用去说了，有条件的推荐要用，搜狗，360都比它好， 它虽然全但更杂，会干扰你的注意力. 哎， 以后有机会要写篇文章痛批阿度，手握流量不作为，虚假信息满屏飞.真是太耽误事了，心疼流失了这么多人宝贵的时间.
   
-### 中英文切换
-
-![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/5.png)
-* 这个估计国内的各位都不会去看，希望能有更多友人了解鸿蒙.搞这行都有操作系统情怀，个人坚信鸿蒙必定成功，也必然成功，它的成功意义非凡，或许能明白的人不多，自己一定是那个摇旗呐喊者.
-
-### 带私货
+### 鸿蒙内核源码注解分析
 
 [![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/6.png)](https://weharmony.gitee.io)
 
-这是私货，是自己一直想做也正在做的事，有些事情一旦开始，就真的停不下来了，不知道你有没有这种感受.
+### 百篇博客分析内核
 
+[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/7.png)](https://weharmony.gitee.io/blog/)
+
+### 百万汉字注解源码
+
+[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/8.png)](https://gitee.com/weharmony/kernel_liteos_a_note)
 
 ### **百篇博客.往期回顾**
 在加注过程中，整理出以下文章。内容立足源码，常以生活场景打比方尽可能多的将内核知识点置入某种场景，具有画面感，容易理解记忆。说别人能听得懂的话很重要! 百篇博客绝不是百度教条式的在说一堆诘屈聱牙的概念，那没什么意思。更希望让内核变得栩栩如生，倍感亲切.确实有难度，自不量力，但已经出发，回头已是不可能的了。　:P
 
 与代码有bug需不断debug一样，文章和注解内容会存在不少错漏之处，请多包涵，但会反复修正，持续更新，`.xx`代表修改的次数，精雕细琢，言简意赅，力求打造精品内容。
 
+* [v57.xx 鸿蒙内核源码分析(编译过程篇) | 简单案例窥视GCC编译全过程 ](https://my.oschina.net/weharmony/blog/5064209) **[  | 51](https://harmonyos.51cto.com/posts/5032)[ .c](https://blog.csdn.net/kuangyufei/article/details/117419679)[  .h](https://weharmony.gitee.io/57_编译过程篇.html)[  .o](https://my.oschina.net/weharmony)**
+  
 * [v56.xx 鸿蒙内核源码分析(进程映像篇) | ELF是如何被加载运行的? ](https://my.oschina.net/weharmony/blog/5060359) **[  | 51](https://harmonyos.51cto.com/posts/4815)[ .c](https://blog.csdn.net/kuangyufei/article/details/117325933)[  .h](https://weharmony.gitee.io/56_进程映像篇.html)[  .o](https://my.oschina.net/weharmony)**
 
 * [v55.xx 鸿蒙内核源码分析(重定位篇) | 与国际接轨的对外部发言人 ](https://my.oschina.net/weharmony/blog/5055124) **[  | 51](https://harmonyos.51cto.com/posts/4519)[ .c](https://blog.csdn.net/kuangyufei/article/details/117110422)[  .h](https://weharmony.gitee.io/55_重定位篇.html)[  .o](https://my.oschina.net/weharmony)**
