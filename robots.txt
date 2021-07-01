@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://weharmony.github.io/sitemap.xml
+Sitemap: http://weharmonyos.com/sitemap.xml
