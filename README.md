@@ -1,6 +1,6 @@
 百篇博客系列篇.本篇为:
 
-* [v52.xx 鸿蒙内核源码分析(静态站点篇) | 五一哪也没去就干了这事 ](https://my.oschina.net/weharmony/blog/5042657) **[  | 51](https://harmonyos.51cto.com/posts/4312)[ .c](https://blog.csdn.net/kuangyufei/article/details/116517461)[  .h](https://weharmony.gitee.io/52_静态站点篇.html)[  .o](https://my.oschina.net/weharmony)**
+* [v52.xx 鸿蒙内核源码分析(静态站点篇) | 五一哪也没去就干了这事 ](https://my.oschina.net/weharmony/blog/5042657) **[  | 51](https://harmonyos.51cto.com/posts/4312)[ .c](https://blog.csdn.net/kuangyufei/article/details/116517461)[  .h](http://weharmonyos.com/52_静态站点篇.html)[  .o](https://my.oschina.net/weharmony)**
   
 ### 几点说明
 
@@ -19,16 +19,16 @@
 *  [加入兴趣小组.微信群聊  < 国内](http://weharmonyos.com/qun.html)[ | 国外 > ](https://weharmony.github.io/qun.html)
 
 
-### 将 HarmonyOS | 鸿蒙 研究到底
+### 鸿蒙研究站
 
-[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/0.png)](https://weharmony.gitee.io)
+[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/other/io.png)](http://weharmonyos.com/)
 
 笔者为何要研究鸿蒙,请看这篇:
-* [v13.xx 鸿蒙内核源码分析(源码注释篇) | 鸿蒙必定成功，也必然成功 ](https://my.oschina.net/u/3751245/blog/4686747) **[  | 51](https://harmonyos.51cto.com/posts/4049)[ .c](https://blog.csdn.net/kuangyufei/article/details/109251754)[  .h](https://weharmony.gitee.io/blog/13_源码注释篇/) [  .o](https://my.oschina.net/weharmony)**
+* [v13.xx 鸿蒙内核源码分析(源码注释篇) | 鸿蒙必定成功，也必然成功 ](https://my.oschina.net/u/3751245/blog/4686747) **[  | 51](https://harmonyos.51cto.com/posts/4049)[ .c](https://blog.csdn.net/kuangyufei/article/details/109251754)[  .h](http://weharmonyos.com/blog/13_源码注释篇/) [  .o](https://my.oschina.net/weharmony)**
 
 ### 鸿蒙开发者文档
 
-[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/1.png)](https://weharmony.gitee.io/openharmony/)
+[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/1.png)](http://weharmonyos.com/openharmony/)
 
 * 在给鸿蒙内核加注和写博客期间需要不断的查找资料，觉得官方目前资料展示方式并不能满足自己的需求，浪费了很多宝贵的时间，所以在想能不能将官方文档整个静态站点出来即方便别人更方便自己，这是一劳永逸，利己利他的事干嘛不做的，刚好五一有成块的时间，本来也想出去走走，结果哪都没去，期间遇到不少问题，但基本都解决了，耽误了点时间没更新博客但换来未来的一片爽朗之声， hin 值得! 
 * 这里必须要感谢下这套主题的作者 Mr.hope ，人非常的nice， 晚上12点我们还在一起解决问题.再次感谢!!! 主题地址:[vuepress-theme-hope](https://gitee.com/vuepress-theme-hope) 有兴趣的可以去了解下，一个功能强大的 vuepress 主题.
@@ -51,11 +51,11 @@
   
 ### 鸿蒙内核源码注解分析
 
-[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/6.png)](https://weharmony.gitee.io)
+[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/6.png)](http://weharmonyos.com)
 
 ### 百篇博客分析内核
 
-[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/7.png)](https://weharmony.gitee.io/blog/)
+[![在这里插入图片描述](https://gitee.com/weharmony/docs/raw/master/pic/openharmony/7.png)](http://weharmonyos.com/blog/)
 
 ### 百万汉字注解源码
 
