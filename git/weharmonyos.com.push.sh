@@ -12,7 +12,7 @@
 #cp -r ./.vuepress/dist/* ../output_web/weharmonyos.com/
 
 cd ../
-git init
+#git init
 git add -A
 git commit -m '鸿蒙研究站:http://weharmonyos.com
     注解仓库：gitee.com/weharmony/kernel_liteos_a_note
@@ -21,8 +21,8 @@ git commit -m '鸿蒙研究站:http://weharmonyos.com
     鸿蒙手册：http://doxygen.weharmonyos.com
     公众号: 鸿蒙研究站
     '
-#git push git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
-git push -f git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
+git push git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
+#git push -f git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
 
 
 cd -
