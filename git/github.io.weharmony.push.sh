@@ -23,6 +23,6 @@ git commit -m 'https://weharmony.github.io
     鸿蒙手册：http://doxygen.weharmonyos.com
     公众号: 鸿蒙研究站
     '
-git push -f git@github.com:weharmony/weharmony.github.io.git master #weharmony.github.io
+git push git@github.com:weharmony/weharmony.github.io.git master #weharmony.github.io
 cd -
 cd -
