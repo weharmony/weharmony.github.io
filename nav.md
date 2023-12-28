@@ -1,11 +1,11 @@
 
-* [首页](/)
-* 文档中心
+* :house: [首页](/)
+* :stars: 文档中心
   - [设备开发](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/device-dev/Readme-CN.md)
   - [应用开发](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/application-dev/Readme-CN.md)
   - [版本说明](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/release-notes/Readme.md)
   - [子系统](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/readme/Readme-CN.md)
-* 博客中心
+* :bank: 博客中心
   * [总目录](/blog/101.md)
   * [基础知识](/blog/index/1_base.md)
   * [进程管理](/blog/index/2_process.md)
@@ -19,14 +19,21 @@
   * [调测工具](/blog/index/10_test.md)
   * [前因后果](/blog/index/0_so.md)
   * [前往 >> 外站](/vendor/extsite.md)
-* 论坛中心
+* :running: 论坛中心
   * [论坛首页](http://bbs.weharmonyos.com)
   * [问题建议](http://bbs.weharmonyos.com/forum-42-1.html)
-* 手册中心
+* :church: 手册中心
   * [内核参考手册](http://doxygen.weharmonyos.com/index.html)
   * [gnu 汇编教程](/compile/assembly.md)
   * [gn 参考手册](/compile/gn/docs/)
   * [ninja 参考手册](/compile/ninja/Readme-CN.md)
   * [fhs 规范](/compile/fhs.html)
-* [任总演讲稿](/ren/)   
-* [帮助中心](/vendor/donate.md) 
+* :art: 计算机经典
+  * [编程中文书籍索引](/vendor/freebook.md)    
+  * [计算机资料](/CS-Notes/) 
+* :rainbow: 大师经典      
+  * [任总演讲稿](/ren/)   
+  * [毛选](/mao/)
+* :wrench: 工具
+  * [markdown-emoji](/tools/markdown-emoji.md) 
+* :hospital: [帮助中心](/vendor/donate.md) 

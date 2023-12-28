@@ -14,8 +14,6 @@
 
 [![](https://weharmonyos.oss-cn-hangzhou.aliyuncs.com/resources/73/1.png)](http://doxygen.weharmonyos.com/index.html)
 
-
-
 ## 文档中心
 
 [![](https://weharmonyos.oss-cn-hangzhou.aliyuncs.com/resources/common/opio.png)](http://open.weharmonyos.com)
@@ -30,6 +28,6 @@
 
 [![](https://weharmonyos.oss-cn-hangzhou.aliyuncs.com/resources/huawei/ren.jpg)](/ren/)
 
-## 帮助作者
+## 帮助中心
 
 [>> 前往历史帮助榜](/vendor/donate.md)

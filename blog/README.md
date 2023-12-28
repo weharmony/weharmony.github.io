@@ -1,3 +1,4 @@
+[![](https://weharmonyos.oss-cn-hangzhou.aliyuncs.com/resources/common/cate.png)](/blog/)
 
 **基础知识** 
 * [v01.12 鸿蒙内核源码分析(双向链表) | 谁是内核最重要结构体](/blog/01.md)
