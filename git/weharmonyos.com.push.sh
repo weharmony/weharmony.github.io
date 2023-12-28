@@ -14,12 +14,11 @@
 cd ../
 #git init
 git add -A
-git commit -m '鸿蒙研究站:http://weharmonyos.com
+git commit -m '站点:http://weharmonyos.com
     注解仓库：gitee.com/weharmony/kernel_liteos_a_note
     开源鸿蒙：http://open.weharmonyos.com
     鸿蒙论坛：http://bbs.weharmonyos.com
     鸿蒙手册：http://doxygen.weharmonyos.com
-    公众号: 鸿蒙研究站
     '
 git push git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
 #git push -f git@gitee.com:weharmony/weharmony.git master #weharmonyos.com

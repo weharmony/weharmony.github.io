@@ -1,11 +1,10 @@
 
 * [首页](/)
-
 * 文档中心
-  - [设备开发文档](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/device-dev/Readme-CN.md)
-  - [应用开发文档](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/application-dev/Readme-CN.md)
+  - [设备开发](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/device-dev/Readme-CN.md)
+  - [应用开发](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/application-dev/Readme-CN.md)
   - [版本说明](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/release-notes/Readme.md)
-  - [子系统介绍](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/readme/Readme-CN.md)
+  - [子系统](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/readme/Readme-CN.md)
 * 博客中心
   * [总目录](/blog/101.md)
   * [基础知识](/blog/index/1_base.md)
@@ -30,4 +29,4 @@
   * [ninja 参考手册](/compile/ninja/Readme-CN.md)
   * [fhs 规范](/compile/fhs.html)
 * [任总演讲稿](/ren/)   
-* [赞助作者](/vendor/donate.md) 
+* [帮助中心](/vendor/donate.md) 
