@@ -20,8 +20,8 @@ git commit -m '站点:http://weharmonyos.com
     鸿蒙论坛：http://bbs.weharmonyos.com
     鸿蒙手册：http://doxygen.weharmonyos.com
     '
-git push git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
-#git push -f git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
+#git push git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
+git push -f git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
 
 
 cd -
