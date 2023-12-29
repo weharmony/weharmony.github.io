@@ -10,7 +10,7 @@
 
 [轻内核源码注解](https://gitee.com/weharmony/kernel_liteos_a_note)
 [博客中心](/blog/)
-[手册中心](http://doxgen.weharmonyos.com/index.html)
+[手册中心](http://doxygen.weharmonyos.com/index.html)
 [论坛中心](http://bbs.weharmonyos.com)
 [鸿蒙文档中心 <small>4.0 LTS</small>](http://open.weharmonyos.com)
 
