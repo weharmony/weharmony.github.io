@@ -1,6 +1,6 @@
-![logo](_media/icon.png)
+![logo](_media/kernel_256.png)
 
-# we harmonyos <small>23.12.28</small>
+# we harmonyos <small>24.01.01</small>
 
 > 深挖底层技术 打好地基工程
 
@@ -12,5 +12,5 @@
 [博客中心](/blog/)
 [手册中心](http://doxygen.weharmonyos.com/index.html)
 [论坛中心](http://bbs.weharmonyos.com)
-[鸿蒙文档中心 <small>4.0 LTS</small>](http://open.weharmonyos.com)
+[OpenHarmony 文档中心 <small>4.0 LTS</small>](http://open.weharmonyos.com)
 

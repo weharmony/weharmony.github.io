@@ -1,15 +1,17 @@
+
 - [首页](/)
-- [注解中心](https://gitee.com/weharmony/kernel_liteos_a_note)
-- [博客中心](/blog/)
-- [手册中心](http://doxygen.weharmonyos.com/index.html)
-- [论坛中心](http://bbs.weharmonyos.com)
-- [文档中心](http://open.weharmonyos.com)
-- 计算机经典
+- 鸿蒙相关
+  - [注解中心](https://gitee.com/weharmony/kernel_liteos_a_note)
+  - [博客中心](/blog/)
+  - [手册中心](http://doxygen.weharmonyos.com/index.html)
+  - [论坛中心](http://bbs.weharmonyos.com)
+  - [文档中心](http://open.weharmonyos.com)
+- 计算机相关
   - [编程书籍索引](/vendor/freebook.md)
-  - [计算机资料](/CS-Notes/) 
-- 大师经典
+  - [整理很好的知识](/CS-Notes/) 
+- 大师必读
+  - [毛泽东文集](/mao/)
   - [任总演讲稿](/ren/) 
-  - [毛选](/mao/)
 - 工具
   - [emoji](/tools/markdown-emoji.md) 
 - [帮助中心](/vendor/donate.md)
