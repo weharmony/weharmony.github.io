@@ -19,7 +19,7 @@ sed -i 's/6850197bffce7d5806ea/f524e15efb84b8c837e6/g' ./index.html
 sed -i 's/4b5856543ca62d63c5dcec984148c5239f0431d9/033f64c3b6569ee020d95575e72fdca8aec5cc2d/g' ./index.html
 #git init
 git add -A
-git commit -m ' 支持TOC 
+git commit -m ' 解决CDN的问题 
     站点：https://weharmony.github.io | http://weharmonyos.com
     注解仓库：gitee.com/weharmony/kernel_liteos_a_note
     开源鸿蒙：http://open.weharmonyos.com
