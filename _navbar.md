@@ -29,6 +29,9 @@
   - [ninja 参考手册](/compile/ninja.md)
   - [fhs 规范](/compile/fhs.html ':ignore')
 - :art: 计算机经典
+  - [全球点赞最高的免费编程书籍](/vendor/free-programming-books-zh)
+  - [程序员应该访问的最佳网站](/vendor/程序员应该访问的最佳网站) 
+  - [最好的工具类网站](/vendor/chatgpt) 
   - [编程中文书籍索引](/vendor/freebook.md)    
   - [整理很好的知识](/CS-Notes/) 
 - :rainbow: 大师经典      
