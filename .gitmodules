@@ -1,0 +1,3 @@
+[submodule "interview/0voice"]
+	path = interview/0voice
+	url = git@github.com:0voice/interview_internal_reference.git

@@ -1,20 +1,7 @@
-
-- [首页](/)
-- 鸿蒙相关
-  - [注解中心](https://gitee.com/weharmony/kernel_liteos_a_note)
-  - [博客中心](/blog/)
-  - [手册中心](http://doxygen.weharmonyos.com/index.html)
-  - [论坛中心](http://bbs.weharmonyos.com)
-  - [文档中心](http://open.weharmonyos.com)
-- 计算机相关
-  - [全球点赞最高的免费编程书籍](/vendor/free-programming-books-zh)
-  - [程序员应该访问的最佳网站](/vendor/程序员应该访问的最佳网站) 
-  - [最好的工具类网站](/vendor/chatgpt) 
-  - [编程书籍索引](/vendor/freebook.md)
-  - [整理很好的知识](/CS-Notes/) 
-- 大师必读
-  - [毛泽东文集](/mao/)
-  - [任总演讲稿](/ren/) 
-- 工具
-  - [emoji](/tools/markdown-emoji.md) 
-- [帮助中心](/vendor/donate.md)
+### [首页](/README.md)
+### [一 : 鸿蒙相关](/tools/harmonyos.md)
+### [二 : 计算机知识](/tools/it.md)
+### [三 : 大师作品](/tools/dashi.md)
+### [四 : 工具集](/tools/tools.md)
+### [五 : 优秀站点](/tools/other.md)
+### [六 : 帮助中心](/vendor/donate.md)
