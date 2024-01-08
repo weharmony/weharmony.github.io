@@ -1,6 +1,6 @@
 
 - :house: [首页](/)
-- :stars: 文档中心
+- :bookmark_tabs: 文档中心
   - [设备开发](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/device-dev/Readme-CN.md)
   - [应用开发](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/application-dev/Readme-CN.md)
   - [版本说明](http://open.weharmonyos.com/#/docs-OpenHarmony-4.0-Release/zh-cn/release-notes/Readme.md)
@@ -42,4 +42,5 @@
   - [MD编辑器(推荐)](https://html.weharmonyos.com/markdown-editor/index.html)
   - [马克飞象](http://marxi.co/)
   - [stackedit](https://stackedit.io/app#)
+  - [龙脊康](/longjikang/README.md)
 - :hospital: [帮助中心](/vendor/donate.md) 

@@ -8,3 +8,4 @@
 | 编程中文书籍索引 | [国内](/vendor/freebook)  [仓库源](https://github.com/justjavac/free-programming-books-zh_CN) |感谢作者 justjavac 的整理|
 |web前端知识| [国内](https://vue3js.cn/)  [仓库源](https://github.com/febobo/web-interview)   | 语音打卡社群(JS每日一题)维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题，感谢作者 febobo 的整理|
 |java前端知识|[国内](https://doocs.gitee.io/advanced-java)  [国外](https://doocs.github.io/advanced-java)  [仓库源](https://gitee.com/Doocs/advanced-java) | 互联网 Java 工程师进阶知识完全扫盲，感谢作者 doocs 的整理 |
+|小林coding|[国内](https://xiaolincoding.com/) | 图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！，感谢作者 小林 的分享 |

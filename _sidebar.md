@@ -4,4 +4,3 @@
 ### [三 : 大师作品](/tools/dashi.md)
 ### [四 : 工具集](/tools/tools.md)
 ### [五 : 优秀站点](/tools/other.md)
-### [六 : 帮助中心](/vendor/donate.md)

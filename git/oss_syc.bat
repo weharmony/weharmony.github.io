@@ -1,0 +1,1 @@
+E:\harmony\tools\ossutil64\ossutil64.exe sync -u E:\harmony\weharmony_docs\weharmony\resources\  oss://weharmonyos/resources/
