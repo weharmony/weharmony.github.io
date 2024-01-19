@@ -19,12 +19,12 @@ sed -i 's/6850197bffce7d5806ea/f524e15efb84b8c837e6/g' ./index.html
 sed -i 's/4b5856543ca62d63c5dcec984148c5239f0431d9/033f64c3b6569ee020d95575e72fdca8aec5cc2d/g' ./index.html
 #git init
 git add -A
-git commit -m ' 解决CDN的问题 
-    站点：https://weharmony.github.io | http://weharmonyos.com
+git commit -m ' 增加图片放大和剪贴板功能 
+    站点：https://weharmony.github.io | https://www.weharmonyos.com
     注解仓库：gitee.com/weharmony/kernel_liteos_a_note
-    开源鸿蒙：http://open.weharmonyos.com
-    鸿蒙论坛：http://bbs.weharmonyos.com
-    鸿蒙手册：http://doxygen.weharmonyos.com
+    开源鸿蒙：https://open.weharmonyos.com
+    鸿蒙论坛：https://bbs.weharmonyos.com
+    鸿蒙手册：https://doxygen.weharmonyos.com
     公众号: 匡奕烜
     '
 git push git@gitee.com:weharmony/weharmony.git master #weharmonyos.com
