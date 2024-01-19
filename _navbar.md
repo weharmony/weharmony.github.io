@@ -43,7 +43,7 @@
   - [马克飞象](http://marxi.co/)
   - [stackedit](https://stackedit.io/app#)
   
-- :hospital: 码农的劲椎
+- :hospital: 码农的颈椎
   - [码农的颈椎](/vendor/pillow.md) 
   - [龙脊康](/longjikang/README.md)
-  - [帮助中心](/vendor/donate.md) 
+  - [我要捐赠](/vendor/donate.md) 
