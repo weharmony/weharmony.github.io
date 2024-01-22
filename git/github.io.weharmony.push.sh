@@ -23,11 +23,11 @@ sed -i 's/033f64c3b6569ee020d95575e72fdca8aec5cc2d/4b5856543ca62d63c5dcec984148c
 #git init
 git add -A
 git commit -m ' 支持TOC 
-    站点：https://weharmony.github.io | http://weharmonyos.com
+    站点：https://weharmony.github.io | https://weharmonyos.com
     注解仓库：gitee.com/weharmony/kernel_liteos_a_note
-    开源鸿蒙：http://open.weharmonyos.com
-    鸿蒙论坛：http://bbs.weharmonyos.com
-    鸿蒙手册：http://doxygen.weharmonyos.com
+    开源鸿蒙：https://open.weharmonyos.com
+    鸿蒙论坛：https://bbs.weharmonyos.com
+    鸿蒙手册：https://doxygen.weharmonyos.com
     公众号: 匡奕烜
     '
 git push git@github.com:weharmony/weharmony.github.io.git master #weharmony.github.io

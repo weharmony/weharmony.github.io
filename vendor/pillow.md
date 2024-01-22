@@ -8,7 +8,7 @@
 |:-:|:-:|:-:|
 |![](https://weharmonyos.oss-cn-hangzhou.aliyuncs.com/resources/龙脊康/long.jpg)|![](https://weharmonyos.oss-cn-hangzhou.aliyuncs.com/resources/龙脊康/shen.jpg)|![](https://weharmonyos.oss-cn-hangzhou.aliyuncs.com/resources/龙脊康/youxiu1.jpg)![](https://weharmonyos.oss-cn-hangzhou.aliyuncs.com/resources/common/zzwx.png)|
 
-### 强烈推荐
+### 产品推荐
 只需一顿饭钱，护您脊椎周全，添加微信，享受龙脊康内部学员价
 
 |白天护颈|工作护腰|睡个好觉|
