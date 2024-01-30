@@ -6,7 +6,10 @@
 
 [](/tools/tools.md ':include')
 
+
+<!--
 [](/tools/disassembler.md ':include')
+-->
 
 [](/tools/other.md ':include')
 
